@@ -1,1 +1,1 @@
-# ObjectAid-UML-Explorer
+# ObjectAid UML Explorer
